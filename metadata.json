@@ -1,0 +1,6 @@
+{
+  "name": "Voxera MYVOICE — Assistive Voice Preservation Concept",
+  "description": "Product portfolio and technical research specification for Voxera MYVOICE, an AI-powered assistive vocal identity recreation concept and compatible wearable voice band.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
